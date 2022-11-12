@@ -1,2 +1,3 @@
 # RockPaperScissorsGame
-Rock Paper Scissors game as a personal project
+Rock Paper Scissors is my first personal project.
+Vanilla Javascript project without any external libraries
