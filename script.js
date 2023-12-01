@@ -1,6 +1,6 @@
 'use strict'
 
-// Global variables
+// Global variables ###
 
 let game = {
     difficulty: 1,
